@@ -17,7 +17,6 @@ I am an aspiring **Natural Language Processing (NLP) Developer** passionate abou
 
 ## Projects & Practice Repositories
 - [NLP-Practice](https://github.com/anushka-nlp/NLP-Practice) — My hands-on NLP practice projects including text cleaning, tokenization, and sentiment analysis.
-- *(Add more repos as you create them)*
 
 ## Goals
 - Gain practical experience by completing NLP projects and internships
